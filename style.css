@@ -1,0 +1,11 @@
+div{
+width: 300px;
+height: 200px;
+background-color: rgb(149, 122, 122)
+}
+
+h1{font-synthesis-style: ;font-size: 33 ;color: crimson; }
+
+h2{font-size: 30px;width: fit-content; background-color: chartreuse; color: rgb(98, 8, 8); font-style: italic; font-weight: bold; text-decoration: ; font-variant: small-caps; font-stretch: expanded; font-family: monospace;}
+
+img{width: 200px; height: 200px; border-radius: 50%; border: 5px solid rgb(0, 0, 0); box-shadow: 10px 10px 10px rgb(135, 31, 31);}
